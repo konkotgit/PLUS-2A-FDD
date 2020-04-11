@@ -11,9 +11,8 @@
 
 Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
 
-Front view: 
+Assembled interface:
  
 ![Plus 2A FDD Front](/photos/plus2fdd_01.jpg)
-Back view:  
 
 ![Plus 2A FDD Back](/photos/plus2fdd_02.jpg)
