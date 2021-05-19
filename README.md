@@ -11,10 +11,10 @@
 
 Connecting the interface turns ZX Spectrum + 2A into ZX Spectrum +3
 
-###Look at YouTube:
+### Look at YouTube:
 [![YouTube link](https://img.youtube.com/vi/y5E8csp8bBg/0.jpg)](https://www.youtube.com/watch?v=y5E8csp8bBg)
 
-###Assembled interface:
+### Assembled interface:
  
 ![Plus 2A FDD Front](/photos/plus2fdd_01.jpg)
 
