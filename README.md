@@ -1,6 +1,8 @@
 # PLUS 2A FDD Interface
 ## Plus2AFDD - floppy disk drive interface for ZX Spectrum + 2A (black)
 
+## Light version of this interface is here https://github.com/konkotgit/PLUS-2A-FDC-LIGHT
+
 * Built-in floppy drive emulator with FlashFloppy software
 * Possibility of connecting a classic 3.5" drive simultaneously
 * Floppy disk side switch.
